@@ -58,8 +58,8 @@ body{
 
 /*FOOTER*/
 #footer-area{
-    -webkit-mask-image: url("http://support.nature.org/images/earth/assets/grit.png");
-    mask-image: url("http://support.nature.org/images/earth/assets/grit.png");
+    -webkit-mask-image: url("https://support.nature.org/images/earth/assets/grit.png");
+    mask-image: url("https://support.nature.org/images/earth/assets/grit.png");
     background-color: rgba(148,176,179,.3);
 }
 .footer{
